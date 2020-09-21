@@ -20,4 +20,5 @@ Node.js uses an event-driven, non-blocking I/O model that makes it lightweight a
 
 # 5) This is the terminal showing the users connected to the server
 The server is listening to port 3000 using the socket.io
+
 ![MessageApp](images/ss5.PNG "MessageApp")
